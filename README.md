@@ -12,12 +12,12 @@ This repository is organized to ensure clarity and ease of understanding. Here's
 
 ### Folder Structure
 
-|- src/
+`|- src/
    |- TicTacToe.java
    |- Board.java
    |- Player.java
 |- README.md
-
+`
 
 In this structure:
 
