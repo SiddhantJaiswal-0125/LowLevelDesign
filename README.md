@@ -15,7 +15,7 @@ In this structure:
 
 ## Key Features
 
-- **Modular Code:** Each game (Tic Tac Toe and Chess) is encapsulated within its own package, allowing for straightforward expansion or integration into more extensive systems.
+- **Modular Code:** Each game (Tic Tac Toe) is encapsulated within its own package, allowing for straightforward expansion or integration into more extensive systems.
 - **Object-Oriented Approach:** The code adheres to object-oriented principles, ensuring clean abstraction, encapsulation, and reusability of components.
 - **Clear Comments:** The codebase is well-documented with comments to elucidate complex logic and design decisions, facilitating collaboration with other developers.
 - **SOLID Principles:** The code follows SOLID principles, fostering maintainability and extensibility as the project evolves.
