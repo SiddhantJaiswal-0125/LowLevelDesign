@@ -1,5 +1,7 @@
 package LLD_TicTacToe.Model;
 
+import LLD_TicTacToe.Pair;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -52,12 +54,3 @@ public class Board {
    }
 }
 
-class Pair
-{
-    Integer i1, i2;
-    public Pair(int a, int b)
-    {
-        i1 = a;
-        i2 = b;
-    }
-}
