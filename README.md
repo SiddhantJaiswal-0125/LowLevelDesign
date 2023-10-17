@@ -12,27 +12,12 @@ This repository is organized to ensure clarity and ease of understanding. Here's
 
 ### Folder Structure
 
-cssCopy code
+|- src/
+   |- TicTacToe.java
+   |- Board.java
+   |- Player.java
+|- README.md
 
-`|- src/
-
-   |- TicTacToe/
-
-      |- TicTacToe.java
-
-      |- Board.java
-
-      |- Player.java
-
-   |- Chess/
-
-      |- ChessGame.java
-
-      |- Board.java
-
-      |- Piece.java
-
-   |- README.md`
 
 In this structure:
 
