@@ -1,56 +1,33 @@
-Low-Level Design Repository
-
-===========================
+# Low-Level Design Showcase
 
 Welcome to my Low-Level Design repository! This project demonstrates my skills in low-level system design, showcasing my ability to create efficient, organized, and scalable code. Although I started this project today, it already reflects my dedication to creating high-quality software solutions. Here's what you can find in this repository:
 
-Project Overview
+## Project Overview
 
-----------------
-
-This repository is organized to ensure clarity and ease of understanding. Here's a brief overview of the contents:
+This repository is organized to ensure clarity and ease of understanding. Here's a brief overview of its contents:
 
 ### Folder Structure
 
-`|- src/
-   |- TicTacToe.java
-   |- Board.java
-   |- Player.java
-|- README.md
-`
 
 In this structure:
 
--   TicTacToe: Contains a simple implementation of the Tic Tac Toe game.
+- **TicTacToe:** Contains a basic implementation of the Tic Tac Toe game.
 
--   Chess: Contains a basic design for a Chess game.
+## Key Features
 
-Key Features
+- **Modular Code:** Each game (Tic Tac Toe and Chess) is encapsulated within its own package, allowing for straightforward expansion or integration into more extensive systems.
+- **Object-Oriented Approach:** The code adheres to object-oriented principles, ensuring clean abstraction, encapsulation, and reusability of components.
+- **Clear Comments:** The codebase is well-documented with comments to elucidate complex logic and design decisions, facilitating collaboration with other developers.
+- **SOLID Principles:** The code follows SOLID principles, fostering maintainability and extensibility as the project evolves.
 
-------------
+## Future Improvements
 
--   Modular Code: Each game (Tic Tac Toe and Chess) is encapsulated within its own package, allowing for easy expansion or integration into larger systems.
+While this project lays a solid foundation, there is room for improvement. In the future, I plan to:
 
--   Object-Oriented Approach: The code follows object-oriented principles, ensuring clean abstraction, encapsulation, and reusability of components.
+- Implement more advanced game strategies for Chess, enhancing the game's complexity.
+- Develop a graphical user interface (GUI) to enrich the user experience.
+- Incorporate additional low-level design patterns to further optimize the code.
 
--   Clear Comments: The codebase includes comments where necessary to explain complex logic and design decisions, making it easy for other developers to understand and collaborate.
+## Conclusion
 
--   SOLID Principles: The code adheres to SOLID principles, ensuring maintainability and extensibility as the project evolves.
-
-Future Improvements
-
--------------------
-
-While this project provides a solid foundation, there's always room for improvement. In the future, I plan to:
-
--   Implement more advanced game strategies for Chess, making the game more challenging.
-
--   Add a graphical user interface (GUI) to enhance the user experience.
-
--   Incorporate additional low-level design patterns to further optimize the code.
-
-Conclusion
-
-----------
-
-Thank you for visiting my Low-Level Design repository! I'm excited about the potential of this project and look forward to further enhancing its functionality and performance. If you have any questions or suggestions, please feel free to reach out. Happy coding!
+Thank you for visiting my Low-Level Design repository! I'm excited about the potential of this project and look forward to further enhancing its functionality and performance. If you have any questions or suggestions, please
