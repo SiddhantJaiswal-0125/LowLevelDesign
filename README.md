@@ -12,6 +12,7 @@ This repository is organized to ensure clarity and ease of understanding. Here's
 In this structure:
 
 - **TicTacToe:** Contains a basic implementation of the Tic Tac Toe game.
+-  **Logger** Contains a basic implementation of how a Logger works, on the principle of Chain of Responsiblity
 
 ## Key Features
 
